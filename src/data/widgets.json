@@ -1,0 +1,82 @@
+{
+  "CSPM": [
+    {
+      "id": "1",
+      "name": "Cloud Accounts",
+      "text": "Accounting of Cloud Accounts",
+      "imageUrl": "/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cloud Account Risk Assessment",
+      "text": "Managing Risk for Cloud Account",
+      "imageUrl": "/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Credits for Cloud Computing",
+      "text": "Computational Activities of Computing",
+      "imageUrl": "/3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Buckets and Instances",
+      "text": "Accessing credentials for buckets and instances",
+      "imageUrl": "/4.jpg"
+    }
+  ],
+  "CWPP": [
+    {
+      "id": "5",
+      "name": "Top 5 Namespace Specific Alerts",
+      "text": "Namespaces for Alerts",
+      "imageUrl": "/5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Workload Alerts",
+      "text": "Work Assessment Handling",
+      "imageUrl": "/6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Manpower Alerts",
+      "text": "Employee status Alerts",
+      "imageUrl": "/7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Raw Material Alerts",
+      "text": "Reinstallation and Balancing",
+      "imageUrl": "/8.jpg"
+    }
+  ],
+  "Image": [
+    {
+      "id": "9",
+      "name": "Image Risk Assessment",
+      "text": "Random text for Risk Assessment",
+      "imageUrl": "/9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Image Security Issues",
+      "text": "Random text for Security Issues",
+      "imageUrl": "/10.jpg"
+    }
+  ],
+  "Ticket": [
+    {
+      "id": "11",
+      "name": "Ticket Risk Assessment",
+      "text": "Random text for Risk Assessment",
+      "imageUrl": "/11.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Ticket Security Issues",
+      "text": "Random text for Security Issues",
+      "imageUrl": "/12.jpg"
+    }
+  ]
+}
